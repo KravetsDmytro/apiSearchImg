@@ -2,14 +2,14 @@
   "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KravetsDmytro.github.io/goit-js-hw-11",
+  "homepage": "https://KravetsDmytro.github.io/apiSearchImg",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /apiSearchImg/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KravetsDmytro/goit-js-hw-11.git"
+    "url": "git+https://github.com/KravetsDmytro/apiSearchImg.git"
   },
   "keywords": [],
   "author": "Kravets Dmytro <dimaxa1985@gmail.com>",
